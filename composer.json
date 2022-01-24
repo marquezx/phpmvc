@@ -1,14 +1,14 @@
 {
-    "name": "semihkizilboga/mvc",
+    "name": "marquez/mvc",
     "autoload": {
         "psr-4": {
-            "Semihkizilboga\\Mvc\\": "src/"
+            "Marquez\\Mvc\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Semih Kızılboğa",
-            "email": "grafiksemih@gmail.com"
+            "name": "Marquez",
+            "email": "marquezx2021@gmail.com"
         }
     ],
     "require": {
